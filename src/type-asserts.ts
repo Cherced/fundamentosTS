@@ -19,7 +19,7 @@ console.log('usernombre', usernombre);
 console.log('usernombreWithID', usernombreWithID);
 
 let message = (usernombre as string).length > 5 ? 'Hola ' + usernombre : 'No hay nombre';
-console.log('mensaje', message);
+console.log('mensaje', mensaje);
 
 
 

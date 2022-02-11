@@ -29,7 +29,7 @@ console.log('otherVarUndefined', otherVarUndefined);
 
 let albumName: string;
 // da error albumName = null;
-//console.log('albumName', albumName);
+//console.log('albumName2', albumName);
  //da error albumName = undefined;
 //console.log('albumName', albumName);
 
